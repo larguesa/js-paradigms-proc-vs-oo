@@ -28,7 +28,6 @@ class Form {
   }
 }
 
-
 const in1 = new InputField('input-n1');
 const in2 = new InputField('input-n2');
 document.getElementById('oo-btn').onclick = function handler() {
